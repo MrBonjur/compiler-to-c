@@ -1,4 +1,4 @@
-# compiler-to-c
+# compiler-py-to-c
 The python version used is 3.9
 
 Code to convert python script to C executable or pyd module
